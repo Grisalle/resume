@@ -15,11 +15,11 @@ body {
 }
 
 /* Main content */
-.main_content {
+.main-content {
     padding: 88px;
 }
 
-.main_content_title {
+.main-content-title {
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -29,7 +29,7 @@ body {
 }
 
 /* About me */
-.my_profession {
+.my-profession {
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -38,7 +38,7 @@ body {
     margin: 0 0 18px 0;
 }
 
-.my_name {
+.my-name {
     font-style: normal;
     font-weight: 700;
     font-size: 45px;
@@ -47,7 +47,7 @@ body {
     margin: 0 0 28px 0;
 }
 
-.my_descr {
+.my-descr {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -56,21 +56,21 @@ body {
     width: 525px;
 }
 
-.about_me_container {
+.about-me-container {
     margin-bottom: 64px;
 }
 
 /* Projects */
-.project_container {
+.project-container {
     margin-bottom: 48px;
 }
 
-.project_list {
+.project-list {
     margin: 0;
     padding: 0 0 0 17px;
 }
 
-.project_item {
+.project-item {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -78,7 +78,7 @@ body {
     color: #000000;
 }
 
-.project_item_link {
+.project-item-link {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -87,7 +87,11 @@ body {
     color: #005fff;
 }
 
-.project_item_descr {
+.project-item-link-repository {
+    margin-left: 4px;
+}
+
+.project-item-descr {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -96,15 +100,15 @@ body {
 }
 
 /* Work experience */
-.work_experience_container {
+.work-experience-container {
     margin-bottom: 44px;
 }
 
-.work_experience_place {
+.work-experience-place {
     margin-bottom: 16px;
 }
 
-.work_experience_position {
+.work-experience-position {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -113,11 +117,11 @@ body {
     margin: 0;
 }
 
-.work_experience_company {
+.work-experience-company {
     color: #3366ff;
 }
 
-.work_period {
+.work-period {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -126,7 +130,7 @@ body {
     margin: 12px 0 8px 0;
 }
 
-.work_duties {
+.work-duties {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -134,13 +138,13 @@ body {
     color: #595959;
 }
 
-.work_duties_list {
+.work-duties-list {
     padding: 0;
     margin: 0 0 0 18px;
 }
 
 /* Education */
-.education_university {
+.education-university {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -149,7 +153,7 @@ body {
     margin: 12px 0 0 0;
 }
 
-.education_specialty {
+.education-specialty {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -158,7 +162,7 @@ body {
     margin: 12px 0 0 0;
 }
 
-.education_period {
+.education-period {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -167,7 +171,7 @@ body {
     margin: 12px 0 20px 0;
 }
 
-.text_separator {
+.text-separator {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -181,18 +185,18 @@ body {
     background-color: #e8f1f8;
 }
 
-.my_photo {
+.my-photo {
     margin-top: 40px;
 }
 
-.contacts_container,
-.tech_skills_container,
-.soft_skills_container,
-.languages_container {
+.contacts-container,
+.tech-skills-container,
+.soft-skills-container,
+.languages-container {
     margin: 32px 0 0 40px;
 }
 
-.sidebar_title {
+.sidebar-title {
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -202,7 +206,7 @@ body {
 }
 
 /* Contacts */
-.contacts_type {
+.contacts-type {
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -211,7 +215,7 @@ body {
     margin-right: 8px;
 }
 
-.contacts_item {
+.contacts-item {
     margin: 0;
 }
 
@@ -224,16 +228,16 @@ body {
 }
 
 /* Skills */
-.skills_list {
+.skills-list {
     margin: 0;
     padding: 0 0 0 18px;
 }
 
-.skills_list_item {
+.skills-list-item {
     color: #3366ff;
 }
 
-.skills_list_text {
+.skills-list-text {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -242,16 +246,16 @@ body {
 }
 
 /* Languages */
-.languages_list {
+.languages-list {
     margin: 0;
     padding: 0 0 0 18px;
 }
 
-.languages_list_item {
+.languages-list-item {
     color: #3366ff;
 }
 
-.languages_list_text {
+.languages-list-text {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
